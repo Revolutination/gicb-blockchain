@@ -1,0 +1,12 @@
+# Beast protocol
+## Types
+type Beast int
+
+const (
+	// Beast format types
+	Rawformat Beast = iota
+	Jsonformat
+	Msgpackformat
+)
+
+# Example usage
