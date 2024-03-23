@@ -35,7 +35,7 @@ We welcome contributions to the GICB project. Here are some ways you can contrib
 
 # License
 
-This project is licensed under the [MIT License](LICENSE.md) 
+This project is licensed under the MIT License. 
 
 # Contact
 
